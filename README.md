@@ -6,6 +6,6 @@
 | :---         |     :---:      |     :---:      |     :---:      |
 | 17.01.2025 | 2 | Kick-off lecture  | Lecture recording  |
 | 19.01.2025 | 4 | Cisco Online Course  | Tasks  |
-| 22.10.2024 | 3 | Cisco Online Course  | Tasks  |
+| 22.01.2025 | 3 | Cisco Online Course  | Tasks  |
 | 24.01.2025 | 2 |   Second lecture  | Lecture recording  |
 | 25.01.2025 | 1 |   Github Repository task  | Tasks  |
