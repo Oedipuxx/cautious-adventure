@@ -1,2 +1,11 @@
-# cautious-adventure
-Cybersecurity and data privacy - Spring 2025
+# Logbook
+
+17.01.2025, 2h, Kick-off lecture, Lecture recording
+
+| Date  | Used hours | Subject(s) |  output |
+| :---         |     :---:      |     :---:      |     :---:      |
+| 17.01.2025 | 2 | Kick-off lecture  | Lecture recording  |
+| 19.01.2025 | 4 | Cisco Online Course  | Tasks  |
+| 22.10.2024 | 3 | Cisco Online Course  | Tasks  |
+| 24.01.2025 | 2 |   Second lecture  | Lecture recording  |
+| 25.01.2025 | 1 |   Github Repository task  | Tasks  |
