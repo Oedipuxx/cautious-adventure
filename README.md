@@ -9,3 +9,4 @@
 | 22.01.2025 | 3 | Cisco Online Course  | Tasks  |
 | 24.01.2025 | 2 |   Second lecture  | Lecture recording  |
 | 25.01.2025 | 1 |   Github Repository task  | Tasks  |
+| 01.02.2025 | 8 | Cisco Online Course  | Tasks  |
