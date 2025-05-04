@@ -20,3 +20,4 @@
 | 19.02.2025 | 4.5 | Continuation - The Booking system project → Phase 1 → Part 1   | Tasks  |
 | 20.02.2025 | 3.5 | Continuation - The Booking system project → Phase 1 → Part 1   | Tasks  |
 | 21.02.2025 | 2 |   Online lecture  | Lecture recording  |
+| 07.04.2025 | 9 | Remaining Portswigger Lab Environment   | SQL INJECTION Tasks x4, ACCESS CONTROL x4, AUTHENTICATION x3  |
